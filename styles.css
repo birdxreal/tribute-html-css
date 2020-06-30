@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Helvetica", "Roboto";
+}
+
+#main {
+  text-align: center;
+  background-color: silver;
+  border-radius: 5px;
+}
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+
+  #img-div {
+    background: green;
+    padding: 20px;
+    margin: 50px;
+    border: solid red;
+  }
+}
+img {
+  max-width: 80%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+h3 {
+  text-align: center;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  border: solid red;
+  border-radius: 10%;
+}
+blockquote {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
