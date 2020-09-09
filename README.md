@@ -1,3 +1,5 @@
 # tribute-html-css
 
-tribute bruce lee with some css added FCC project
+Tribute page for Bruce Lee. 
+CSS added. 
+FreeCodeCamp project.
